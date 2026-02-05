@@ -18,7 +18,7 @@ z = r sin θ
 2. Matplotlib: The engine that draws the window and the 3D axes.
 3. mplot3d: A specific toolkit within Matplotlib that allows the plot to exist in 3D space rather than just 2D.
    
-================================================================================================================
+====================================================================
 
 # 💻 The Logic Flow ( Cube )
 
@@ -47,7 +47,7 @@ This is the most important part of the code for drawing solid shapes:
      - edgecolors='r': Draws red lines on the edges so you can see the cube's skeleton.
      - alpha=0.6: Makes it slightly see-through, which is helpful in 3D so you can see the back edges through the front.
 
-=====================================================================================================================
+=====================================================================
 
 # 💻 The Logic Flow ( Ball )
 
