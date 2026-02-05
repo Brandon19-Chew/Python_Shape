@@ -1,5 +1,8 @@
 # CODE OF OBJECTS 
 
+<img width="796" height="825" alt="image" src="https://github.com/user-attachments/assets/3ae88a28-a533-4662-a58b-17816e5bf955" />
+
+
 # 💻 The Logic Flow ( Donut )
 
 1. np.linspace & np.meshgrid: These functions create a grid of points. Think of this like creating a flexible mesh "skin" that will be wrapped around the donut frame.
@@ -19,6 +22,9 @@ z = r sin θ
 3. mplot3d: A specific toolkit within Matplotlib that allows the plot to exist in 3D space rather than just 2D.
    
 ====================================================================
+
+<img width="799" height="821" alt="image" src="https://github.com/user-attachments/assets/9fc872c9-5a0c-4569-a590-d51548c12389" />
+
 
 # 💻 The Logic Flow ( Cube )
 
@@ -48,6 +54,8 @@ This is the most important part of the code for drawing solid shapes:
      - alpha=0.6: Makes it slightly see-through, which is helpful in 3D so you can see the back edges through the front.
 
 =====================================================================
+
+<img width="797" height="828" alt="image" src="https://github.com/user-attachments/assets/609a722f-3c3e-4bd2-8a9b-fe5daf30bcb9" />
 
 # 💻 The Logic Flow ( Ball )
 
